@@ -136,7 +136,7 @@ h2, h3, p{
     }
     .footer-div{
         display: flex;
-        justify-content: space-between;
+        justify-content: space-around;
         align-items: center;
     }
 
