@@ -139,7 +139,13 @@ h2, h3, p{
         justify-content: space-around;
         align-items: center;
     }
+    .footer-div div h3,h4{
+        font-size: 12px;
+    }
 
+    .footer-img{
+        height: 13px;
+    }
     .footer .footer-paragraph {
         display:none
     }
